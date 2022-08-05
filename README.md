@@ -17,3 +17,7 @@ The robot is not allowed to fall from the table, as such the movement is limited
 
 
 ## Each RobotMovement has a robot object attached to it. so only robotMovement objects should be used.
+
+## Unit testing
+
+Requires NUnit nuget package to run.
