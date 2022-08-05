@@ -1,6 +1,6 @@
 ﻿namespace ToyRobotCodeChallenge
 {
-    public class Robot
+    internal class Robot
     {
         public int X { get; set; }
         public int Y { get; set; }
